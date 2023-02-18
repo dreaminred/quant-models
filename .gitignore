@@ -1,0 +1,5 @@
+
+*.csv
+main-notebook.ipynb
+retrieve-tickers.ipynb
+.ipynb_checkpoints/main-notebook-checkpoint.ipynb
